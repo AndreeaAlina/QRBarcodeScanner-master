@@ -361,7 +361,7 @@
       <window_info id="Designer" order="3" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3295302" />
       <window_info id="Captures" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Logcat" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
@@ -369,7 +369,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.18791947" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.18791947" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
