@@ -62,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/priyanka/qrbarcodescanner/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="127" column="49" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+            <state relative-caret-position="236">
+              <caret line="118" column="3" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -88,6 +88,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -101,6 +104,7 @@
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -259,7 +263,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="device.picker.selection" value="3300d4b4a50f7261" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../grable-master" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -349,7 +354,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" />
       <window_info id="Image Layers" order="1" />
@@ -357,7 +361,7 @@
       <window_info id="Designer" order="3" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3295302" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3295302" />
       <window_info id="Captures" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Logcat" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
@@ -365,7 +369,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.18791947" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.18791947" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -403,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/priyanka/qrbarcodescanner/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="127" column="49" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+        <state relative-caret-position="236">
+          <caret line="118" column="3" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
         </state>
       </provider>
     </entry>
